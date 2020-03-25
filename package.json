@@ -1,0 +1,25 @@
+{
+  "name": "creative-coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krboelter/creative-coding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krboelter/creative-coding/issues"
+  },
+  "homepage": "https://github.com/krboelter/creative-coding#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.3",
+    "canvas-sketch-util": "^1.10.0",
+    "nice-color-palettes": "^3.0.0"
+  }
+}
